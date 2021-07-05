@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Maximum element divisible by four/Cinema_Room_Manager.Topics-The_for-loop-Maximum_element_divisible_by_four.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Maximum element divisible by four/Cinema_Room_Manager.Topics-The_for-loop-Maximum_element_divisible_by_four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Maximum element divisible by four/Cinema_Room_Manager.Topics-The_for-loop-Maximum_element_divisible_by_four.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Maximum element divisible by four/Cinema_Room_Manager.Topics-The_for-loop-Maximum_element_divisible_by_four.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Maximum element divisible by four/Cinema_Room_Manager.Topics-The_for-loop-Maximum_element_divisible_by_four.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Maximum element divisible by four/Cinema_Room_Manager.Topics-The_for-loop-Maximum_element_divisible_by_four.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Theory/Cinema_Room_Manager.Topics-The_for-loop-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Theory/Cinema_Room_Manager.Topics-The_for-loop-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Theory/Cinema_Room_Manager.Topics-The_for-loop-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Theory/Cinema_Room_Manager.Topics-The_for-loop-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Theory/Cinema_Room_Manager.Topics-The_for-loop-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/The for-loop/Theory/Cinema_Room_Manager.Topics-The_for-loop-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
